@@ -2,6 +2,7 @@
 itemId: some-unique-id
 itemType: SIS
 itemFulfills: KP-45
+itemTitle: md.md
 ---
 
 # Ketryx **rocks**
