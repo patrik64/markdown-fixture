@@ -32,27 +32,3 @@ Some rationale of the item
 
 ## After the item fields
 Should not count as part of the item fields
-`;
-
-export const mdWithItemFieldsAndNoSpecialDescription = `
-# Title
-
-This is part of the description, unless there's an explicit ### Description under ## Item fields.
-
-## Description
-
-still part of the description
-
-## Item fields
-
-### Inputs
-
-something
-
-### Outputs
-
-something else
-
-## Another section
-
-(This will be ignored entirely.)
